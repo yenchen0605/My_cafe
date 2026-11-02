@@ -1,12 +1,11 @@
-# ☕ MyCafe — Android 咖啡店應用程式
+# MyCafe — Android 
 
-## 📌 專案介紹
+## 專案介紹
 
 MyCafe 是使用 Java 與 Android Studio 開發的咖啡店主題 Android App，為大學期間 Android 程式設計課程的實作專案。
-
 本專案以咖啡店會員服務與商品瀏覽為設計情境，規劃會員登入、個人資料、商品菜單、購物車、會員卡及儲值等操作介面，並透過不同的 Android UI 元件實作頁面導覽與互動效果。
 
-## 🛠️ 使用技術
+## 使用技術
 
 | 技術 | 應用說明 |
 |---|---|
@@ -17,7 +16,7 @@ MyCafe 是使用 Java 與 Android Studio 開發的咖啡店主題 Android App，
 | Android Navigation | 側邊選單、底部導覽與頁面切換 |
 | Intent | 開啟網頁搜尋、地圖及電子郵件應用程式 |
 
-## ✨ 主要功能
+## 主要功能
 
 ### 1. 首頁與會員登入
 
@@ -50,26 +49,26 @@ MyCafe 是使用 Java 與 Android Studio 開發的咖啡店主題 Android App，
 
 呈現咖啡店促銷資訊及會員登入對話框。
 
-![首頁與會員登入](./screenshots/home.png)
-
+![首頁與會員登入](./screenshot/home1.png)
+![首頁與會員登入](./screenshot/home2.png)
 ### 商品菜單與購物車
 
 透過下拉式選單切換商品，並展示購物車及取貨方式選擇介面。
 
-![商品菜單](./screenshots/menu.png)
+![商品菜單](./screenshot/menu.png)
 
-![購物車](./screenshots/cart.png)
+![購物車](./screenshot/cart.png)
 
 ### 會員卡與儲值
 
 展示會員 QR Code、儲值資訊及金額輸入對話框。
 
-![會員卡與儲值](./screenshots/member.png)
+![會員卡與儲值](./screenshot/member.png)
 
-## 📝 專案說明
+## 專案說明
 
 本專案主要著重於 Android App 的介面設計與基本互動功能實作，部分會員登入、儲值、購物車及結帳操作為介面模擬，尚未整合實際會員驗證、交易處理及後端資料服務。
 
-## 📚 專案收穫
+## 專案收穫
 
 透過 MyCafe App 的開發，熟悉 Android Studio 的開發環境，以及 Java 與 XML 在 Android 應用程式中的使用方式，並累積多頁面介面設計、導覽功能與互動元件實作的經驗。
