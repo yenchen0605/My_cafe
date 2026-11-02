@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">YC Cafe</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">YC cafe</string>
+    <string name="nav_header_subtitle">C109118111@nkust.edu.tw</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_map">Map</string>
+
+    <string name="bt_ok">OK</string>
+    <string name="bt_cancel">Cancel</string>
+    <string name="bt_clear">Clear</string>
+    <string name="bt_add">儲值</string>
+
+
+    <string name="menu_home">首頁</string>
+    <string name="menu_information">關於我們</string>
+    <string name="menu_slideshow">菜單</string>
+    <string name="menu_cart">購物車</string>
+    <string name="menu_value">儲值</string>
+
+    <string name="button_card">會員卡/儲值</string>
+    <string name="button_manager">會員資訊</string>
+    <string name="button_pcr">消費紀錄</string>
+
+    <string name="pc_qrcode">qrcode</string>
+
+    <string name="bt_value">線上儲值</string>
+    <string name="bt_save">儲存變更</string>
+    <string name="bt_enter">會員登入</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="text_pay">交易紀錄</string>
+    <string name="text_payword">無任何交易紀錄</string>
+    <string name="text_point">點數紀錄</string>
+    <string name="text_pointword">"2022/11/13 23:50 p.m. 加入100點\n"
+    "2022/11/13 23:51 p.m. 加入100點\n"
+    "2022/11/13 23:52 p.m. 加入100點\n"
+    "2022/11/13 23:53 p.m. 加入100點\n"
+    "2022/11/13 23:54 p.m. 加入100點\n"
+    "2022/11/13 23:55 p.m. 加入100點\n"</string>
+    <string name="text_avalue">儲值紀錄</string>
+    <string name="text_avalueword">"2022/11/13 23:46 p.m. 儲值金 500\n"
+    "2022/11/13 23:47 p.m. 儲值金 600\n"
+        "2022/11/13 23:48 p.m. 儲值金 700\n"
+        "2022/11/13 23:49 p.m. 儲值金 750\n"
+        "2022/11/13 23:50 p.m. 儲值金 800\n"
+        "2022/11/13 23:55 p.m. 儲值金 850\n"
+        "2022/11/13 23:57 p.m. 儲值金 900\n"
+    </string>
+    <string name="people_data">編輯個人資訊</string>
+    <string name="text_name">姓名</string>
+    <string name="text_gb">男/女</string>
+    <string name="text_phone">電話</string>
+    <string name="text_bd">生日</string>
+    <string name="text_email">信箱</string>
+    <string name="text_address">地址</string>
+    <string name="text_pw">變更密碼</string>
+    <string name="text_enter">會員登入</string>
+    <string name="text_pw1">Password</string>
+    <string name="text_username">會員電話</string>
+    <string name="text_addvalue">線上儲值</string>
+    <string name="text_addmoney">儲值金額</string>
+    <string name="text_addmoney2">
+        "儲值金額："
+        "500 元"</string>
+    <string name="text_info">
+        " YC cafe 歡迎光臨。\n\n"
+        "因為老師的一句話開啟我咖啡店生活。\n\n"
+        "為了我的期中考試，我努力的完成老師需要的咖啡店APP。\n\n"
+        "一個平凡的下課時間過後，我開啟了我的程式人生。\n\n"
+        "品牌精神\n\n"
+        "回歸單純，使用高品質原物料，我們放心你也放心。\n\n"
+        "以老師提供的題目努力創造，創造我的分數，並累積經驗。\n\n"
+        "設計者：簡言蓁\n\n"
+        "學號：C109118111\n\n"
+        "Email：C109118111@gmail.com.tw\n\n"
+        "電話：0972953944\n\n"
+        "有事請通過以上提供資訊詢問！\n\n"
+
+    </string>
+    <string name="text_dis">最新促銷活動資訊</string>
+    <string name="text_n1">咖啡任選第二杯半價</string>
+    <string name="text_n2">買四杯贈送精美小禮物！</string>
+    <string name="text_n3">新品嚐鮮半價！等你來喔</string>
+    <string name="text_acnumber">會員點數：828 點</string>
+
+    <string-array name="menu_array">
+        <item>最新上市</item>
+        <item>咖啡/拿鐵</item>
+        <item>茶/水果茶</item>
+        <item>奶茶</item>
+    </string-array>
+
+
+
+    <string name="text_line">---------------------------------------------------</string>
+
+    <string name="text_1">商品資訊</string>
+    <string name="text_2">數量</string>
+    <string name="text_3">價格</string>
+    <string name="text_4">地址</string>
+    <string name="text_5">咖啡</string>
+    <string name="text_6">1杯</string>
+    <string name="text_7">本日折扣金額</string>
+    <string name="text_8">10元</string>
+    <string name="text_9">本日消費總金額</string>
+    <string name="text_10">30元</string>
+    <string name="text_11">40元</string>
+
+    <string name="bt_my">自取</string>
+    <string name="bt_go">外送</string>
+    <string name="bt_over">結帳</string>
+
+
+
+</resources>

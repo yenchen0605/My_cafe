@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/button_pcr"
+        android:icon="@drawable/outline_receipt_white_24"
+        android:title="@string/button_pcr"/>
+
+    <item
+        android:id="@+id/button_card"
+        android:icon="@drawable/outline_credit_card_black_24"
+        android:title="@string/button_card"/>
+
+    <item
+        android:id="@+id/button_manager"
+        android:icon="@drawable/outline_perm_identity_black_24"
+        android:title="@string/button_manager"/>
+</menu>
