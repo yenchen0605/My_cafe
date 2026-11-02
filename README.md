@@ -56,7 +56,6 @@ MyCafe 是使用 Java 與 Android Studio 開發的咖啡店主題 Android App，
 透過下拉式選單切換商品，並展示購物車及取貨方式選擇介面。
 
 ![商品菜單](./screenshot/menu.png)
-
 ![購物車](./screenshot/cart.png)
 
 ### 會員卡與儲值
